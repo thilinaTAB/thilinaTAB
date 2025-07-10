@@ -87,9 +87,6 @@
 
 ### 🔥 Extras
 
-**Profile Views Counter:**  
-![Visitor Count](https://komarev.com/ghpvc/?username=thilinaTAB&label=Profile%20Views&color=blue&style=flat)
-
 **Contributions Graph:**  
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilinaTAB&theme=tokyonight)
 
