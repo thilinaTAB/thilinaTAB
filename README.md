@@ -63,14 +63,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
+### 📈 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilinaTAB&show_icons=true&theme=tokyonight" alt="Thilina's GitHub Stats" />
-  <br />
-  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinaTAB&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thilinaTAB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thilinaTAB&layout=compact&theme=tokyonight&hide_progress=true" height="180" />
 </p>
 
 ---
@@ -91,9 +87,8 @@
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilinaTAB&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thilinaTAB&theme=radical&row=1&column=4" alt="GitHub Trophies" style="max-width: 100%;" />
+  <img src="https://github-trophies.vercel.app/?username=thilinaTAB&theme=radical&margin-w=15&no-bg=true" alt="Trophies" />
 </div>
 
 ---
